@@ -29,7 +29,7 @@
 
     <queries>
         <item>ALTER TABLE `?:products` ADD `conditions` varchar(32) NOT NULL default ''</item>
-        <item for="uninstall">ALTER TABLE  `?:products` DROP `video`</item>
+        <item for="uninstall">ALTER TABLE  `?:products` DROP `conditions`</item>
     </queries>
     
 </addon>
