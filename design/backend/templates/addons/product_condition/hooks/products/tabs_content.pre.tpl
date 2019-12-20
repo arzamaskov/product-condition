@@ -9,6 +9,7 @@
 				<option value="{__("product_condition.good")}"{if $product_data.conditions == "{__("product_condition.good")}"}selected="selected"{/if}>{__("product_condition.good")}</option>
 				<option value="{__("product_condition.average")}"{if $product_data.conditions == "{__("product_condition.average")}"}selected="selected"{/if}>{__("product_condition.average")}</option>
 				<option value="{__("product_condition.poor")}"{if $product_data.conditions == "{__("product_condition.poor")}"}selected="selected"{/if}>{__("product_condition.poor")}</option>
+				<option value="{__("product_condition.destroyed")}"{if $product_data.conditions == "{__("product_condition.destroyed")}"}selected="selected"{/if}>{__("product_condition.destroyed")}</option>
 			</select>
 		</div>
 	</div>
