@@ -8,6 +8,9 @@
 
     <default_language>ru</default_language>
     <language_variables>
+		<item lang="en" id="product_condition.module_name">Product condition</item>
+        <item lang="ru" id="product_condition.module_name">Состояние товара</item>
+
         <item lang="en" id="product_condition.conditions">Сondition</item>
         <item lang="ru" id="product_condition.conditions">Состояние</item>
 
