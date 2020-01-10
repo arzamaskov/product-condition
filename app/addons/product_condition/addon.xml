@@ -2,6 +2,7 @@
 <addon scheme="3.0">
     <id>product_condition</id>
     <version>1.0</version>
+    <default_language>ru</default_language>
     <priority>100</priority>
     <status>active</status>
     <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
