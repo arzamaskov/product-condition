@@ -1,34 +1,10 @@
 <?xml version="1.0"?>
 <addon scheme="3.0">
     <id>product_condition</id>
-    <name>Состояние товара</name>
-    <description>Модуль для CS-Cart и Multi-Vendor, добавляющий поле ввода для состояния товара</description>
-
+    <version>1.0</version>
+    <priority>100</priority>
     <status>active</status>
-
-    <default_language>ru</default_language>
-    <language_variables>
-		<item lang="en" id="product_condition.module_name">Product condition</item>
-        <item lang="ru" id="product_condition.module_name">Состояние товара</item>
-
-        <item lang="en" id="product_condition.conditions">Сondition</item>
-        <item lang="ru" id="product_condition.conditions">Состояние</item>
-
-        <item lang="en" id="product_condition.destroyed">Destroyed</item>
-        <item lang="ru" id="product_condition.destroyed">Некондиция</item>
-
-        <item lang="en" id="product_condition.poor">Poor</item>
-        <item lang="ru" id="product_condition.poor">Плохое</item>
-
-        <item lang="en" id="product_condition.average">Average</item>
-        <item lang="ru" id="product_condition.average">Среднее</item>
-
-        <item lang="en" id="product_condition.good">Good</item>
-        <item lang="ru" id="product_condition.good">Хорошее</item>
-
-        <item lang="en" id="product_condition.excellent">Excellent</item>
-        <item lang="ru" id="product_condition.excellent">Отличное</item>
-    </language_variables>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
 
     <queries>
         <item>ALTER TABLE `?:products` ADD `conditions` varchar(32) NOT NULL default ''</item>
