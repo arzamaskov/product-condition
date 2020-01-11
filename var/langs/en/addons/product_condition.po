@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::product_condition"
+msgid "Product condition"
+msgstr "Product condition"
+
+msgctxt "Addons::description::product_condition"
+msgid "CS-Cart addon that allow to add the new entry field on the product edit page"
+msgstr "CS-Cart addon that allow to add the new entry field on the product edit page"
+
+msgctxt "Languages::module name"
+msgid "Product condition"
+msgstr "Product condition"
+
+msgctxt "Languages::condition"
+msgid "Condition"
+msgstr "Condition"
+
+msgctxt "Languages::destroyed"
+msgid "Destroyed"
+msgstr "Destroyed"
+
+msgctxt "Languages::poor"
+msgid "Poor"
+msgstr "Poor"
+
+msgctxt "Languages::average"
+msgid "Average"
+msgstr "Average"
+
+msgctxt "Languages::good"
+msgid "Good"
+msgstr "Good"
+
+msgctxt "Languages::excellent"
+msgid "Excellent"
+msgstr "Excellent"
