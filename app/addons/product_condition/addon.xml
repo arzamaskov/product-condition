@@ -8,8 +8,8 @@
     <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
 
     <queries>
-        <item>ALTER TABLE `?:products` ADD `conditions` varchar(32) NOT NULL default ''</item>
-        <item for="uninstall">ALTER TABLE  `?:products` DROP `conditions`</item>
+        <item>ALTER TABLE `?:products` ADD `condition` varchar(32) NOT NULL default ''</item>
+        <item for="uninstall">ALTER TABLE  `?:products` DROP `condition`</item>
     </queries>
     
 </addon>
