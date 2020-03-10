@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::product_condition"
+msgid "Product condition"
+msgstr "Состояние товара"
+
+msgctxt "Addons::description::product_condition"
+msgid "CS-Cart addon that allow to add the new entry field on the product edit page"
+msgstr "Модуль для CS-Cart, позволяющий добавить поле ввода для состояния товара на странице редактирования"
+
+msgctxt "Languages::module name"
+msgid "Product condition"
+msgstr "Состояние товара"
+
+msgctxt "Languages::condition"
+msgid "Condition"
+msgstr "Состояние"
+
+msgctxt "Languages::destroyed"
+msgid "Destroyed"
+msgstr "Некондиция"
+
+msgctxt "Languages::poor"
+msgid "Poor"
+msgstr "Плохое"
+
+msgctxt "Languages::average"
+msgid "Average"
+msgstr "Среднее"
+
+msgctxt "Languages::good"
+msgid "Good"
+msgstr "Хорошее"
+
+msgctxt "Languages::excellent"
+msgid "Excellent"
+msgstr "Отличное"
