@@ -29,7 +29,7 @@ if ($mode == 'manage') {
 
     Tygh::$app['view']->assign('selected_fields', $selected_fields);
 } elseif ($mode == 'm_update') {
- 
+
     $selected_fields = Tygh::$app['session']['selected_fields'];
 
     $field_groups = Tygh::$app['view']->getTemplateVars('field_groups');
